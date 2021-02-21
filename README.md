@@ -9,7 +9,7 @@ Repositório com o código produzido durante o curso "Java - Introdução à JPA
 #### Lista de commits
 | Hash | Descrição |
 | ------ | ------ |
-| c83905242cc2ffc6a5d585506f0070f6e6a1cdab | Aula 2.1: Criando um projeto Java para utilização da JPA |
+| ----- c83905242cc2ffc6a5d585506f0070f6e6a1cdab | Aula 2.1: Criando um projeto Java para utilização da JPA |
 | a03ffb779ed7cfe5e4fd7ef23127cd4a5d6db6b2 | Aula 2.2: Configurando o Compiler Compliance e entendendo os conceitos fundamentais do Maven |
 | b70750f5a3bbf11b599ad031451aba55cad92486 | Aula 2.3: Configurando o compilador a ser utilizado através do Maven |
 | 25b79c3451fc31dc50794117e405fd98e3326731 | Aula 3.1: Entendendo e configurando o persistence.xml - parte 1 |
